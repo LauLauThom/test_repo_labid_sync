@@ -3,3 +3,4 @@ testing that importing git repos into LabID works, also after adding new commits
 
 new changes
 yet another change
+lalalal
